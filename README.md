@@ -2,11 +2,11 @@
 
 **Instructions to run code**
 
--> Run the python notebook by uploading it to google colab or jupyter notebook
+-> Run the python notebook PrefixTuning.ipynb by uploading it to google colab or jupyter notebook
 
 -> Follow the steps given in the notebook
 
--> All packages that needs to be installed are mentioned in the notebook
+-> All packages that needs to be installed are mentioned in the PrefixTuning.ipynb notebook
 
 
 **To run T5**
