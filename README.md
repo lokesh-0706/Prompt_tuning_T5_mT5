@@ -6,7 +6,7 @@
 
 -> Follow the steps given in the notebook
 
--> All packages that needs to be installed are mentioned in the PrefixTuning.ipynb notebook
+-> All packages that needs to be installed are mentioned in the PrefixTuningUsingT5andMT5.ipynb notebook
 
 
 **To run T5**
