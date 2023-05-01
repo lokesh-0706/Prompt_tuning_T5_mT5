@@ -2,7 +2,7 @@
 
 **Instructions to run code**
 
--> Run the python notebook PrefixTuning.ipynb by uploading it to google colab or jupyter notebook
+-> Run the python notebook PrefixTuningUsingT5andMT5.ipynb by uploading it to google colab or jupyter notebook
 
 -> Follow the steps given in the notebook
 
